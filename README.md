@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/831955219188416542/835569716668006480/86bbc1c64096256a5988632acce93cfe.gif" align="right" width="350" height="250">
 
-### Hi Losers, I'm Swech. :sunglasses:
+### Hi Losers, I'm Swech. :knife:
 
 ##  Developer | Cyber Security 
 <font color="pink"> drugs keep me up
