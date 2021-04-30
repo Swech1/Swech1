@@ -48,7 +48,7 @@
 [steam]: https://steamcommunity.com/id/swechofficial/
 [spotify]: https://open.spotify.com/user/21jh7srjih33g3tfhzhq4qcgy?si=af4faffca30048dc
 
-[discord]:https://discordhub.com/profile/626570458325712906
+[discord]:https://discord.com/users/626570458325712906
 
 
 
