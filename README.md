@@ -43,7 +43,7 @@
 
 
 [instagram]: https://www.instagram.com/atasezenn
-[twitter]: https://www.twitter.com/swech48
+[twitter]: https://www.twitter.com/swechx
 [twitch]: https://www.twitch.tv/swech48
 [steam]: https://steamcommunity.com/id/swechofficial/
 [spotify]: https://open.spotify.com/user/21jh7srjih33g3tfhzhq4qcgy?si=af4faffca30048dc
