@@ -10,7 +10,6 @@
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/discord.svg" align="left" />][discord]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitch.svg" align="left" />][twitch]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/steam.svg" align="left" />][steam]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/spotify.svg" align="left" />][spotify]
 <br />
@@ -46,7 +45,6 @@
 [twitter]: https://www.twitter.com/swechx
 [steam]: https://steamcommunity.com/id/swechofficial/
 [spotify]: https://open.spotify.com/user/21jh7srjih33g3tfhzhq4qcgy?si=af4faffca30048dc
-
 [discord]:https://discord.com/users/626570458325712906
 
 
