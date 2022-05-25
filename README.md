@@ -1,8 +1,3 @@
-<!-- spotify -->
-<p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31wvv5yqstu7nw4hujokxucj5cnk0&cover_image=true&theme=default"/>
-</p>
-
 
 <!-- first row -->
 <p align="center">
@@ -58,7 +53,7 @@
 [instagram]: https://www.instagram.com/atasezenn
 [twitter]: https://www.twitter.com/swechx
 [steam]: https://steamcommunity.com/id/swechofficial/
-[spotify]: https://open.spotify.com/user/21jh7srjih33g3tfhzhq4qcgy?si=af4faffca30048dc
+[spotify]: https://open.spotify.com/user/31wvv5yqstu7nw4hujokxucj5qzi?si=6917108706054b70
 [discord]:https://discord.com/users/626570458325712906
 
 
