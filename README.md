@@ -1,3 +1,8 @@
+<!-- spotify -->
+<p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31wvv5yqstu7nw4hujokxucj5cnk0&cover_image=true&theme=default"/>
+</p>
+
 
 <!-- first row -->
 <p align="center">
